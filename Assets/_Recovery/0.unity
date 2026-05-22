@@ -269,7 +269,6 @@ GameObject:
   - component: {fileID: 447849750}
   - component: {fileID: 447849749}
   - component: {fileID: 447849748}
-  - component: {fileID: 447849751}
   m_Layer: 0
   m_Name: infotmacion
   m_TagString: Untagged
@@ -436,28 +435,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f582a6904613524b8fa0f3ab3dd70c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ArrastrarSprite
---- !u!95 &447849751
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 447849745}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 13b0d490a673b4a499b7096ce94aa5a4, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &489742972
 GameObject:
   m_ObjectHideFlags: 0
@@ -1113,7 +1090,6 @@ GameObject:
   - component: {fileID: 933170514}
   - component: {fileID: 933170513}
   - component: {fileID: 933170515}
-  - component: {fileID: 933170516}
   m_Layer: 0
   m_Name: usuario
   m_TagString: Untagged
@@ -1280,28 +1256,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f582a6904613524b8fa0f3ab3dd70c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ArrastrarSprite
---- !u!95 &933170516
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 933170510}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 280c78a4a5d8e094789e4fcc06af66f9, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1004404061
 GameObject:
   m_ObjectHideFlags: 0
@@ -1575,7 +1529,6 @@ GameObject:
   - component: {fileID: 1676269755}
   - component: {fileID: 1676269754}
   - component: {fileID: 1676269756}
-  - component: {fileID: 1676269757}
   m_Layer: 0
   m_Name: casa
   m_TagString: Untagged
@@ -1592,7 +1545,7 @@ Transform:
   m_GameObject: {fileID: 1676269749}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1287.72, y: -716.29, z: 0}
+  m_LocalPosition: {x: -1287.72, y: -716.51, z: 0}
   m_LocalScale: {x: 0.4, y: 0.4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1800,28 +1753,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f582a6904613524b8fa0f3ab3dd70c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ArrastrarSprite
---- !u!95 &1676269757
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1676269749}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e6151be6bdd8dd74599dc196d3155df4, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1709236100
 GameObject:
   m_ObjectHideFlags: 0
@@ -1914,7 +1845,6 @@ GameObject:
   - component: {fileID: 2043561279}
   - component: {fileID: 2043561281}
   - component: {fileID: 2043561280}
-  - component: {fileID: 2043561282}
   m_Layer: 0
   m_Name: configuracion
   m_TagString: Untagged
@@ -2081,28 +2011,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f582a6904613524b8fa0f3ab3dd70c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ArrastrarSprite
---- !u!95 &2043561282
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2043561276}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 15d702b80716f4b4193313dc02188aea, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2144433803
 GameObject:
   m_ObjectHideFlags: 0
